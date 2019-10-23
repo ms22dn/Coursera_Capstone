@@ -1,0 +1,51 @@
+,ZIP,lat,lng,city,state_id,state_name,population,density,county_name,coord_pairs,Neighborhood
+0,60647,41.92068,-87.70167,Chicago,IL,Illinois,87291.0,8385.0,Cook,"[41.9207, -87.7017]",Palmer Square
+1,60639,41.920559999999995,-87.75603000000001,Chicago,IL,Illinois,90407.0,7156.5,Cook,"[41.9206, -87.756]",Hanson Park
+3,60622,41.90274,-87.68330999999999,Chicago,IL,Illinois,52548.0,8213.0,Cook,"[41.9027, -87.6833]",Ukrainian Village
+4,60651,41.90206,-87.74095,Chicago,IL,Illinois,64267.0,7099.1,Cook,"[41.9021, -87.741]",West Humboldt Park
+5,60611,41.89472,-87.61938,Chicago,IL,Illinois,28718.0,13562.3,Cook,"[41.8947, -87.6194]",Streeterville
+6,60638,41.78145,-87.77056,Chicago,IL,Illinois,55026.0,1913.0,Cook,"[41.7814, -87.7706]",Clearing (W)
+7,60652,41.74795,-87.71479000000001,Chicago,IL,Illinois,40959.0,3153.6,Cook,"[41.748, -87.7148]",Ashburn
+8,60626,42.009029999999996,-87.66963,Chicago,IL,Illinois,50139.0,11355.1,Cook,"[42.009, -87.6696]",Rogers Park
+9,60615,41.80223,-87.60271999999999,Chicago,IL,Illinois,40603.0,7086.4,Cook,"[41.8022, -87.6027]",Hyde Park
+10,60621,41.776379999999996,-87.63944000000001,Chicago,IL,Illinois,35912.0,3718.9,Cook,"[41.7764, -87.6394]",Englewood
+11,60645,42.00853,-87.69481,Chicago,IL,Illinois,45274.0,7743.1,Cook,"[42.0085, -87.6948]",West Rogers Park
+12,60643,41.69957,-87.66277,Chicago,IL,Illinois,49952.0,2625.0,Cook,"[41.6996, -87.6628]",East Beverly
+13,60660,41.9911,-87.66604,Chicago,IL,Illinois,42752.0,12796.8,Cook,"[41.9911, -87.666]",Edgewater Glen
+14,60640,41.972359999999995,-87.66346999999999,Chicago,IL,Illinois,65790.0,10530.6,Cook,"[41.9724, -87.6635]",Uptown
+15,60614,41.9228,-87.65139,Chicago,IL,Illinois,66617.0,8244.5,Cook,"[41.9228, -87.6514]",Sheffield Neighbors
+16,60631,41.99475,-87.81316,Chicago,IL,Illinois,28641.0,2971.5,Cook,"[41.9948, -87.8132]",Norwood Park West
+17,60646,41.99304,-87.75962,Chicago,IL,Illinois,27177.0,2295.2,Cook,"[41.993, -87.7596]",Edgebrook
+18,60628,41.69182,-87.61797,Chicago,IL,Illinois,72202.0,2553.0,Cook,"[41.6918, -87.618]",Roseland
+19,60625,41.97335,-87.70014,Chicago,IL,Illinois,78651.0,7837.6,Cook,"[41.9734, -87.7001]",Ravenswood
+20,60641,41.94659,-87.74676,Chicago,IL,Illinois,71663.0,6845.9,Cook,"[41.9466, -87.7468]",Old Irving Park
+21,60657,41.93998,-87.65374,Chicago,IL,Illinois,65996.0,11207.9,Cook,"[41.94, -87.6537]",Lake View
+22,60636,41.77576,-87.66911999999999,Chicago,IL,Illinois,40916.0,4038.1,Cook,"[41.7758, -87.6691]",West Englewood
+23,60649,41.76303,-87.57030999999999,Chicago,IL,Illinois,46650.0,6148.9,Cook,"[41.763, -87.5703]",South Shore
+24,60617,41.71591,-87.55431,Chicago,IL,Illinois,84155.0,2345.8,Cook,"[41.7159, -87.5543]",South Deering
+25,60633,41.66435,-87.56136,Chicago,IL,Illinois,12927.0,485.3,Cook,"[41.6644, -87.5614]",Calumet River
+27,60612,41.88033,-87.68767,Chicago,IL,Illinois,33472.0,3447.3,Cook,"[41.8803, -87.6877]",Near West Side
+28,60604,41.87814,-87.62836999999999,Chicago,IL,Illinois,570.0,2376.8,Cook,"[41.8781, -87.6284]",The Loop
+29,60624,41.880559999999996,-87.72335,Chicago,IL,Illinois,38105.0,4162.1,Cook,"[41.8806, -87.7234]",East Garfield Park
+30,60656,41.97424,-87.82692,Chicago,IL,Illinois,27613.0,3261.9,Cook,"[41.9742, -87.8269]",O'Hare
+31,60644,41.88021,-87.75746,Chicago,IL,Illinois,48648.0,5360.9,Cook,"[41.8802, -87.7575]",South Austin
+32,60655,41.694759999999995,-87.70379,Chicago,IL,Illinois,28550.0,2502.6,Cook,"[41.6948, -87.7038]",Mount Greenwood
+34,60605,41.86684,-87.61983000000001,Chicago,IL,Illinois,24668.0,7647.5,Cook,"[41.8668, -87.6198]",South Loop
+35,60653,41.81925,-87.61008000000001,Chicago,IL,Illinois,29908.0,4950.5,Cook,"[41.8192, -87.6101]",Bronzeville
+36,60609,41.81252,-87.65565,Chicago,IL,Illinois,64906.0,3237.2,Cook,"[41.8125, -87.6556]",Back of the Yards
+38,60618,41.94696,-87.70262,Chicago,IL,Illinois,92084.0,7114.6,Cook,"[41.947, -87.7026]",Irving Park
+42,60608,41.84876,-87.6713,Chicago,IL,Illinois,82739.0,5068.9,Cook,"[41.8488, -87.6713]",Heart of Chicago
+43,60607,41.875,-87.65156999999999,Chicago,IL,Illinois,23897.0,4031.2,Cook,"[41.875, -87.6516]",University Village - Little Italy
+44,60661,41.883070000000004,-87.64401,Chicago,IL,Illinois,7792.0,10120.5,Cook,"[41.8831, -87.644]",West Loop Gate
+47,60630,41.97215,-87.75706,Chicago,IL,Illinois,54093.0,4374.4,Cook,"[41.9722, -87.7571]",Jefferson Park
+48,60642,41.90161,-87.65803000000001,Chicago,IL,Illinois,18480.0,4316.4,Cook,"[41.9016, -87.658]",Goose Island
+51,60634,41.94635,-87.8061,Chicago,IL,Illinois,74298.0,4033.0,Cook,"[41.9464, -87.8061]",Dunning
+52,60613,41.95583,-87.65796,Chicago,IL,Illinois,48281.0,8572.6,Cook,"[41.9558, -87.658]",Graceland West
+53,60610,41.90487,-87.63615,Chicago,IL,Illinois,37726.0,12585.9,Cook,"[41.9049, -87.6362]",Old Town
+54,60654,41.89227,-87.63729000000001,Chicago,IL,Illinois,14875.0,10154.9,Cook,"[41.8923, -87.6373]",River North
+55,60632,41.81133,-87.71335,Chicago,IL,Illinois,91326.0,4744.1,Cook,"[41.8113, -87.7134]",Brighton Park
+56,60623,41.848079999999996,-87.71778,Chicago,IL,Illinois,92108.0,6621.1,Cook,"[41.8481, -87.7178]",Little Village
+57,60629,41.77567,-87.71176,Chicago,IL,Illinois,113916.0,6466.2,Cook,"[41.7757, -87.7118]",Marquette Park
+58,60620,41.7408,-87.6525,Chicago,IL,Illinois,72216.0,3935.6,Cook,"[41.7408, -87.6525]",Gresham
+59,60637,41.78143,-87.60318000000001,Chicago,IL,Illinois,49503.0,4220.3,Cook,"[41.7814, -87.6032]",Woodlawn
+60,60619,41.74373,-87.60549,Chicago,IL,Illinois,63825.0,4092.5,Cook,"[41.7437, -87.6055]",Chatham
